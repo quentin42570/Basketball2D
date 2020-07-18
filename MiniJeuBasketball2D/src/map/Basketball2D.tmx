@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.3.3" orientation="orthogonal" renderorder="left-up" width="25" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
+ <tileset firstgid="1" source="terrain.tsx"/>
+ <tileset firstgid="376" source="gradins.tsx"/>
+ <tileset firstgid="601" source="panneauscore.tsx"/>
+ <layer id="7" name="Terrain" width="25" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACrXTtY6QURCA0XVFGnTdkAZdN6RB1w1p0HVDetzegA55AzrkDXB3aHB3aNCzCYRb0P3hJqeZYr5McWNi/v+LJY74YJZEMimkkkZ6hEbGP2Z/GvkUUEhRhEZxzN87EkgMGlVUU0NthEYdmWSRTQ655NFKG+10RGh0UkIpZZRTQSUDDDLEcITGNuppoJEmmmlhL/vYz4EIjYN00U0PvfTRzyEOc4SjERrH2M4OdrKL3ezhOCc4yakIjdOc4SznOM8FLnKJy1zhauAa17nBzcAtbnOHu9zjPg94yCMe84SnPOM5L3jJq8Br3vCWd4H3fOAjn/jMF77yje/84OfIcT5/LHHEk0BiIIlkUkgNpJHOKEYzhrGMYzwTmMgkJpNBJllkkxPIJY98CgKFFDGFqUxjOjOYySxmM4e5FFNCKWWUByqopIpq2n6roZZ5zGcBC1nEYpawlGUsp456GmikKdBMC63B/hHtdLCClaxiNWtYyzrWs4GNdNJFNz30BvroZ4DBwBDDbGIzW9jKLz7lHX1ABgAA
+  </data>
+ </layer>
+ <layer id="8" name="Gradins0" width="25" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBSQA34zMjD8AWIuJsowPiAClBcFYmUK8SgYBbQAANzlkk5ABgAA
+  </data>
+ </layer>
+ <layer id="9" name="Gradins1" width="25" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjADv4zcjA8AeIuZhIx7Q2nxg7KDWfWH+MglEwUgEASCFYm0AGAAA=
+  </data>
+ </layer>
+ <layer id="11" name="PanneauScore" width="25" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACu3NuQ2AMBBE0dXWCpirAG4ogBsK5oeOLUdov/TSGZGwEhVJkcEhR4ESFWoNHPZq2GjRoceAERNmLBE+VjY27Dhw4sKNB2+ED8uyrD/2AYixgnNABgAA
+  </data>
+ </layer>
+</map>
